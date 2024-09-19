@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('./assets/Signup\ .png');
+    background-size: cover;
+    background-position: center; /* add this to center the image */
+    height: 100vh; /* add this to set the height to the full viewport */
+    width: 100vw; /* add this to set the width to the full viewport */
+}
